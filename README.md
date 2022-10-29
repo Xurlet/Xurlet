@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xurlet&theme=react-dark)](https://github.com/Xurlet/github-readme-activity-graph)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+🛠️ 
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
